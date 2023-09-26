@@ -1,9 +1,10 @@
 import React from "react";
-
-function Temperature() {
+import "./Temperature.css";
+function Temperature({ temperature }) {
   return (
-    <div>
-      28 <span>&#176;</span>
+    <div className="temperature">
+      {temperature}
+      <span>&#176;</span>C
     </div>
   );
 }

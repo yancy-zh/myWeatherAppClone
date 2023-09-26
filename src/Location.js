@@ -1,7 +1,7 @@
 import React from "react";
-import "./location.css";
-function Location() {
-  return <div className="location">Shuzenji</div>;
+import "./Description.css";
+function Location({ location }) {
+  return <div className="location">{location}</div>;
 }
 
 export default Location;

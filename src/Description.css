@@ -1,3 +1,11 @@
 .description-section{
-    display: flex;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.location{
+    font-size: large;
 }

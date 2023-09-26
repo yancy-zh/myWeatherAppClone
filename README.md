@@ -5,7 +5,7 @@
 - [Ant Design](https://ant-design.gitee.io/components/overview-cn)
 - [Sample solution](https://codepen.io/freeCodeCamp/full/bELRjV)
 - [Weather Api](https://weather-proxy.freecodecamp.rocks/)
-- [Material UI](https://mui.com/)
+- [Material UI Icon library](https://mui.com/material-ui/material-icons/)
 - [React Snippets](https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md)
 
 ## Project Requirements
