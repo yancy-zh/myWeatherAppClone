@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+body{
+  background-image: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/mountains.jpg');
+  max-width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+}
 
 .App-logo {
   height: 40vmin;

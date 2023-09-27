@@ -1,7 +1,6 @@
 .weather-icon{
-    font-size: 5em;
+    width: 80px;
 }
-
 .weather-name{
     font-size: large;
 }

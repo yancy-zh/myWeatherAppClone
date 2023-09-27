@@ -1,7 +1,11 @@
 import React from "react";
 import "./Description.css";
-function Location({ location }) {
-  return <div className="location">{location}</div>;
+function Location({ city, country }) {
+  return (
+    <div className="location">
+      {city},{country}
+    </div>
+  );
 }
 
 export default Location;
