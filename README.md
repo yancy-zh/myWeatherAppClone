@@ -1,3 +1,7 @@
+# Task description
+The project provides a solution for the code challenge "Show the local weather" at Free code camp, from the task link
+[Show the Local Weather](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/show-the-local-weather)
+
 # Project references
 
 ## Dependancies
